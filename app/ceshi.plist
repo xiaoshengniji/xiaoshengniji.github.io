@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/xiaoshengniji/neiceFenfa/blob/main/ipa/LWZComponents_Example.ipa</string>
+					<string>https://xiaoshengniji.github.io/app/LWZComponents_Example.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/xiaoshengniji/neiceFenfa/blob/main/icons/icon57.png?raw=true</string>
+					<string>https://xiaoshengniji.github.io/icons/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/xiaoshengniji/neiceFenfa/blob/main/icons/icon512.png?raw=true</string>
+					<string>https://xiaoshengniji.github.io/icons/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
